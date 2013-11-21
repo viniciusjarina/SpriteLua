@@ -1,0 +1,25 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.IPad.7.0" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="SpriteLua/MyScene.cs">
+    <Files>
+      <File FileName="SpriteLua/Player.cs" Line="22" Column="3" />
+      <File FileName="SpriteLua/AppDelegate.cs" Line="5" Column="20" />
+      <File FileName="SpriteLua/MyScene.cs" Line="17" Column="33" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State expanded="True" selected="True">
+          <Node name="SpriteLua" expanded="True">
+            <Node name="Resources" expanded="True" />
+            <Node name="DetailViewController.cs" expanded="True" />
+            <Node name="MasterViewController.cs" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
